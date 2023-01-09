@@ -10,3 +10,5 @@ This is a fuzzy CVI for imbalanced data sets.
 ## Output
 1. clusteringLabel: The clustering label of each data point.  
 2. k_imi2: The number of clusters determined by IMI2.  
+# Contact
+liuyun313@jlu.edu.cn
