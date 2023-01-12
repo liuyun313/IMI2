@@ -3,7 +3,7 @@ This is a fuzzy CVI for imbalanced data sets.
 
 # Usage
 [clusteringLabel, k_imi2]=IMI2(X, kmin, kmax, IterNum)  
-Please check the demo.doc for an example of how to use IMI2.
+Please check the demo.m and demo.doc for an example of how to use IMI2.
 ## Input
 1. X: Feature matrix, N*m. N is the number of data point, and m is the dimension of features.  
 2. kmin and kmax: The minimum and maximum numbers of clusters respectively, kmax should be greater than kmin.  
